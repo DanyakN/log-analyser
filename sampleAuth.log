@@ -1,0 +1,10 @@
+Sep 20 10:15:32 server sshd[1234]: Failed password for root from 203.0.113.5 port 52344 ssh2
+Sep 20 10:15:34 server sshd[1234]: Failed password for root from 203.0.113.5 port 52346 ssh2
+Sep 20 10:15:36 server sshd[1234]: Failed password for invalid user admin from 203.0.113.5 port 52348 ssh2
+Sep 20 10:15:38 server sshd[1234]: Failed password for invalid user test from 203.0.113.5 port 52350 ssh2
+Sep 20 10:15:40 server sshd[1234]: Failed password for root from 203.0.113.5 port 52352 ssh2
+Sep 20 10:16:01 server sshd[1240]: Accepted password for danyal from 192.168.1.20 port 50000 ssh2
+Sep 20 10:17:12 server sshd[1251]: Failed password for invalid user oracle from 198.51.100.7 port 41122 ssh2
+Sep 20 10:17:15 server sshd[1251]: Failed password for invalid user ubuntu from 198.51.100.7 port 41124 ssh2
+Sep 20 10:20:44 server sshd[1260]: Failed password for danyal from 192.168.1.20 port 50010 ssh2
+Sep 20 10:21:02 server sshd[1263]: Accepted password for danyal from 192.168.1.20 port 50012 ssh2
